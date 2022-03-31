@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Manual Graph Traversal](README.md)
+* [Manual Graph Traversal Foo](README.md)
 
 ## 1 Analysis <a href="#analysis" id="analysis"></a>
 
